@@ -28,7 +28,7 @@ v5.0.1
 - Playback uses m3u8, which respects the global bandwidth setting
     </news>
     <website>https://github.com/kevwag/plugin.video.ted.talks</website>
-    <source>https://github.com/kevwag/plugin.video.ted.talks</source>
+    <source>https://github.com/kevwag/plugin.video.ted.talks/tree/feature/matrix</source>
     <assets>
       <icon>resources/icon.png</icon>
     </assets>
