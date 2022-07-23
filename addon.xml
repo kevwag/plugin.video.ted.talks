@@ -27,9 +27,8 @@ v5.0.1
 - Requires Kodi 19.x (Matrix) or Kodi 20.x (Nexus)
 - Playback uses m3u8, which respects the global bandwidth setting
     </news>
-    <forum>https://forum.kodi.tv/showthread.php?tid=36866</forum>
-    <website>https://github.com/moreginger/xbmc-plugin.video.ted.talks</website>
-    <source>https://github.com/moreginger/xbmc-plugin.video.ted.talks</source>
+    <website>https://github.com/kevwag/plugin.video.ted.talks</website>
+    <source>https://github.com/kevwag/plugin.video.ted.talks</source>
     <assets>
       <icon>resources/icon.png</icon>
     </assets>
